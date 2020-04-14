@@ -1,0 +1,7 @@
+name = "notebook"
+uuid = "ce20c05e-7e87-11ea-384f-791dfbfced4c"
+authors = ["Bartosz Chaber <bartosz.chaber@ee.pw.edu.pl>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3"
